@@ -1,5 +1,5 @@
 <?php
-
+// Diagnóstico rápido (borra este archivo al terminar si quieres)
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
